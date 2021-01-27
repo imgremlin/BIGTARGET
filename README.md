@@ -1,7 +1,7 @@
-# BIGTARGET Hackathon by LENTA and Microsoft
+# BIGTARGET
 
 ## Overview
-
+* BIGTARGET Hackathon by LENTA and Microsoft
 * Task: Improve the effectiveness of SMS targeting, Uplift Modeling
 * Date: July 2020
 
